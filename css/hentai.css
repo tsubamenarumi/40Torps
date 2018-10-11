@@ -36,9 +36,9 @@ h1 {
 }
 
 .naruheh {
+  bottom: 0;
   height: 60vh;
   left: 0;
-  bottom: 0;
   position: absolute;
   z-index: -9999;
 }
