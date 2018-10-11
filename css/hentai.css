@@ -5,6 +5,9 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  transform: scale(1.1);
+}
 
 body {
   background-color: #282828;
@@ -20,7 +23,6 @@ h1 {
   overflow-wrap: break-word;
 }
 
-
 .contactLinks {
   position: absolute;
   top: calc(50% - 45px);
@@ -29,6 +31,10 @@ h1 {
 
 .fab {
   color: #ebdbb2;
+}
+
+.fab:hover {
+  color:#f9f5d7;
 }
 
 .linkBtn {
