@@ -20,11 +20,11 @@ document.getElementById('discord').onmouseout = function () {
   changeText('<h1>40Torps</h1>')
 }
 
-document.getElementById('tumblr').onmouseover = function () {
+document.getElementById('tumblr').onmouseenter = function () {
   changeText('<h1>ore-imouto</h1>')
 }
 
-document.getElementById('tumblr').onmouseout = function () {
+document.getElementById('tumblr').onmouseleave = function () {
   changeText('<h1>40Torps</h1>')
 }
 

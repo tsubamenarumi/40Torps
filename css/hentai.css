@@ -1,6 +1,5 @@
 a {
   color: black;
-  cursor: pointer;
   display: inline-block;
   margin: 45px;
   text-decoration: none;
@@ -9,15 +8,15 @@ a {
 
 body {
   background-color: #282828;
+  color: #ebdbb2;
   font-family: 'helvetica';
   text-align: center;
-  color: #ebdbb2;
 }
 
 h1 {
   font-size: 100px;
-  margin-top: 20vh;
   margin-bottom: -30px;
+  margin-top: 20vh;
   overflow-wrap: break-word;
 }
 
