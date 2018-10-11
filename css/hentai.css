@@ -1,7 +1,6 @@
-a:hover,
-a:focus, 
 a {
   color: black;
+  cursor: pointer;
   display: inline-block;
   margin: 45px;
   text-decoration: none;
