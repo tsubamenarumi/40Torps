@@ -13,7 +13,7 @@ document.getElementById('github').onmouseout = function () {
 }
 
 document.getElementById('discord').onmouseover = function () {
-  changeText('<h1>Sebastiaan#1863</h1>')
+  changeText('<h1>Sebastiaan#1863</h1><br><h2>Come join my server: 2 Moe 4 Festo</h2>')
 }
 
 document.getElementById('discord').onmouseout = function () {
