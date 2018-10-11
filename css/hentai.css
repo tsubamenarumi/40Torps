@@ -1,0 +1,36 @@
+a {
+    color: black;
+    display: inline-block;
+    margin: 45px;
+    text-decoration: none;
+}
+
+body {
+    background-color: #282828;
+    font-family: 'helvetica';
+    text-align: center;
+    color: #ebdbb2;
+}
+
+h1 {
+    font-size: 100px;
+    padding: 30px;
+}
+
+.contactLinks {
+    position: absolute;
+    top: calc(50% - 45px);
+    width: 100%;
+}
+
+.fab {
+    color: #ebdbb2;
+}
+
+.linkBtn {
+    font-size: 80px;
+}
+
+.linkDiv {
+    display: inline-block;
+}
