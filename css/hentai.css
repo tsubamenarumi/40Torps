@@ -47,3 +47,9 @@ h1 {
   position: absolute;
   z-index: -9999;
 }
+
+@media (max-width: 430px) {
+  h1 {
+    font-size: 10vh;
+  }
+}
