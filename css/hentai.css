@@ -1,8 +1,9 @@
 a {
-  color: black;
   display: inline-block;
   margin: 45px;
   text-decoration: none;
+  transition: 150ms;
+  transition-timing-function: ease-in-out;
 }
 
 a:hover {
