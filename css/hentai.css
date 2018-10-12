@@ -40,12 +40,19 @@ h1 {
 }
 
 .naruheh {
-  bottom: 0;
   height: 60vh;
+}
+
+.smugAnime {
+  bottom: 0;
   left: 0;
   pointer-events: none;
   position: absolute;
   z-index: -9999;
+}
+
+.smugktkm {
+  height: 80vh;
 }
 
 @media (max-width: 430px) {
