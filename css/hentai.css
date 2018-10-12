@@ -9,6 +9,11 @@ a:hover {
   transform: scale(1.1);
 }
 
+a img {
+  height: 80px;
+  width: 80px;
+}
+
 body {
   background-color: #282828;
   color: #ebdbb2;
@@ -27,18 +32,6 @@ h1 {
   position: absolute;
   top: calc(50% - 45px);
   width: 100%;
-}
-
-.fab {
-  color: #ebdbb2;
-}
-
-.fab:hover {
-  color:#f9f5d7;
-}
-
-.linkBtn {
-  font-size: 80px;
 }
 
 .linkDiv {
